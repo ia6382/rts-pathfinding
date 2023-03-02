@@ -32,7 +32,7 @@ This was a personal assignment project for the Artificial Intelligence course at
 The course covered the following main topics: path searching, planning (goal regression, partial order planning, graph planning), reinforcement learning,
 qualitative reasoning and modelling, inductive logic programming.
 
-It also served as an inspiration for my Master's thesis; [Multi-Agent Pathfinding in a Real-Time Strategy Game](https://repozitorij.uni-lj.si/IzpisGradiva.php?id=141866&lang=eng).
+It also served as an inspiration for my master's thesis; [Multi-Agent Pathfinding in a Real-Time Strategy Game](https://repozitorij.uni-lj.si/IzpisGradiva.php?id=141866&lang=eng).
 
 ## Controls
 * Game map can be changed by editing the `test_map.txt` file. "#" is a wall, "~" is water, "." is an empty ground tile, and "T" is a tree. 
